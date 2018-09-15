@@ -6,6 +6,10 @@
           <option name="url" value="https://OscarHernandez375@bitbucket.org/juanrocu/scrumchallenge.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="OscarHernandez375" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\oscar\OneDrive\Documentos\UNIVERSIDAD\PRACTICA\Projects\Scrum" />
